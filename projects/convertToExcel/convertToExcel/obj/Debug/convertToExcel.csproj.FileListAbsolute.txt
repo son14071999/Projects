@@ -1,0 +1,17 @@
+D:\projects\convertToExcel\convertToExcel\bin\Debug\convertToExcel.exe.config
+D:\projects\convertToExcel\convertToExcel\bin\Debug\convertToExcel.exe
+D:\projects\convertToExcel\convertToExcel\bin\Debug\convertToExcel.pdb
+D:\projects\convertToExcel\convertToExcel\bin\Debug\Newtonsoft.Json.dll
+D:\projects\convertToExcel\convertToExcel\bin\Debug\Newtonsoft.Json.xml
+D:\projects\convertToExcel\convertToExcel\obj\Debug\convertToExcel.csproj.AssemblyReference.cache
+D:\projects\convertToExcel\convertToExcel\obj\Debug\convertToExcel.csproj.SuggestedBindingRedirects.cache
+D:\projects\convertToExcel\convertToExcel\obj\Debug\convertToExcel.csproj.CoreCompileInputs.cache
+D:\projects\convertToExcel\convertToExcel\obj\Debug\convertToExcel.csproj.CopyComplete
+D:\projects\convertToExcel\convertToExcel\obj\Debug\convertToExcel.exe
+D:\projects\convertToExcel\convertToExcel\obj\Debug\convertToExcel.pdb
+D:\projects\convertToExcel\convertToExcel\bin\Debug\EPPlus.dll
+D:\projects\convertToExcel\convertToExcel\bin\Debug\EPPlus.Interfaces.dll
+D:\projects\convertToExcel\convertToExcel\bin\Debug\EPPlus.System.Drawing.dll
+D:\projects\convertToExcel\convertToExcel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\projects\convertToExcel\convertToExcel\bin\Debug\EPPlus.xml
+D:\projects\convertToExcel\convertToExcel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
