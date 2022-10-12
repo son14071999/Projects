@@ -1,0 +1,5 @@
+grep
+chaining commands: 
+	- mkdir test ; cd test ; echo done => có lỗi-> bỏ qua và đi tiếp
+	- mkdir test && cd test && echo done => có lỗi -> dừng lại ở chỗ lỗi
+	- 

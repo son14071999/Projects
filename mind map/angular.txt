@@ -1,0 +1,6 @@
+ng build
+	ahead of time compilation
+		aot(ahead of time) JIT(Just in time)
+
+template variable: #name_variiable
+	@viewChild
